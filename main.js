@@ -1,5 +1,5 @@
 var meteorite_data_url = 'https://data.nasa.gov/resource/y77d-th95.geojson';
-var world_url = 'https://raw.githubusercontent.com/mbostock/topojson/master/examples/world-50m.json';
+var world_url = 'world-50m.json';
 
 // canvas resolution
 var width = window.innerWidth,
